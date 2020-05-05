@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.likelinux</groupId>
   <artifactId>black-knight</artifactId>
-  packaging>war</packaging>
-  <version>3.4</version>
+  <packaging>war</packaging>
+  <version>3.4-snapshot</version>
   <name>black-knight Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
